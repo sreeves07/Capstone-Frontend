@@ -1,5 +1,28 @@
 {
   "dependencies": {
-    "react": "^18.2.0"
-  }
+    "axios": "^1.3.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0",
+    "react-scripts": "^5.0.1"
+  },
+  "name": "frontend-capstone",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreeves07/Capstone-Frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sreeves07/Capstone-Frontend/issues"
+  },
+  "homepage": "https://github.com/sreeves07/Capstone-Frontend#readme",
+  "description": ""
 }
